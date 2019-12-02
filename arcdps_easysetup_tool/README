@@ -1,0 +1,20 @@
+This is a simple tool which will help you to install 'arcdps' in just a few steps.
+
+1)  Download the arcdps files from the official website @ https://www.deltaconnected.com/arcdps/
+2)  Save all the files in the "put_arcdps_files_here" folder.
+3)  Open a terminal and run 'arcdps_setup.sh'
+4)  Enjoy arcdps :-)
+
+
+Update Notes:
+
+Once in a while you may be required to update arcdps  (typically after a game update), in such a case remove all the files from
+the "put_arcdps_files_here" folder, refill it with the new ones and re-run the 'arcdps_setup.sh' script and you're done.
+
+
+-----------------------------------------------------------------------------
+
+Uninstall Instructions:
+
+1) In a terminal run the 'arcdps_uninstall.sh' file and you're done.
+
