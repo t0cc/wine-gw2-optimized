@@ -1,6 +1,6 @@
 # wine-gw2-optimized
 
-## Dislclmer
+## About
 
  A git repository clone of GW2 user's [Armoredvehicle.2849](https://en-forum.guildwars2.com/profile/discussions/ArmoredVehicle.2849) Wine optimization package. 
 
